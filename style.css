@@ -64,7 +64,7 @@ body {
 }
 
 .container__imagem1{
-    width: 70%;
+    width: 50%;
 }
 
 .container__caixa {
@@ -72,7 +72,11 @@ body {
 }
 
 .secundario__imagem {
-    width: 70%;
+    width: 50%;
+}
+
+.secundario__imagem2{
+    width: 50%;
 }
 
 .secundario {
